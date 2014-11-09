@@ -25,10 +25,6 @@ public class Pachinko {
 			}
 			System.out.println((int)(sum/slots.length));
 		}
-		
-		
-		
-		
 	}
 	
 	public int percentageFinder (int pos) {
